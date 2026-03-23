@@ -4,6 +4,7 @@ class ASTNode:
         self.left = left
         self.right = right
 
+
 class Parser:
 
     def __init__(self, tokens):
