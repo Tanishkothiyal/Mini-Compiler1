@@ -5,7 +5,7 @@ TOKEN_SPECIFICATION = [
     ('ID',       r'[a-zA-Z_]\w*'),
     ('ASSIGN',   r'='),
     ('PLUS',     r'\+'),
-    ('MINUS',    r'-'),
+    ('MINUS',    r'-'), 
     ('MULT',     r'\*'),
     ('DIV',      r'/'),
     ('LPAREN',   r'\('),

@@ -22,4 +22,4 @@ def visualize(node):
 
     add_nodes(node)
 
-    dot.render("ast_tree", view=True)
+    dot.render("ast_tree", view=False, format="png")
